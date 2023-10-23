@@ -1,0 +1,15 @@
+C:\Users\sean_\Desktop\csharp-course\l03-functions\bin\Debug\net6.0\l03-functions.exe
+C:\Users\sean_\Desktop\csharp-course\l03-functions\bin\Debug\net6.0\l03-functions.deps.json
+C:\Users\sean_\Desktop\csharp-course\l03-functions\bin\Debug\net6.0\l03-functions.runtimeconfig.json
+C:\Users\sean_\Desktop\csharp-course\l03-functions\bin\Debug\net6.0\l03-functions.dll
+C:\Users\sean_\Desktop\csharp-course\l03-functions\bin\Debug\net6.0\l03-functions.pdb
+C:\Users\sean_\Desktop\csharp-course\l03-functions\obj\Debug\net6.0\l03-functions.csproj.AssemblyReference.cache
+C:\Users\sean_\Desktop\csharp-course\l03-functions\obj\Debug\net6.0\l03-functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sean_\Desktop\csharp-course\l03-functions\obj\Debug\net6.0\l03-functions.AssemblyInfoInputs.cache
+C:\Users\sean_\Desktop\csharp-course\l03-functions\obj\Debug\net6.0\l03-functions.AssemblyInfo.cs
+C:\Users\sean_\Desktop\csharp-course\l03-functions\obj\Debug\net6.0\l03-functions.csproj.CoreCompileInputs.cache
+C:\Users\sean_\Desktop\csharp-course\l03-functions\obj\Debug\net6.0\l03-functions.dll
+C:\Users\sean_\Desktop\csharp-course\l03-functions\obj\Debug\net6.0\refint\l03-functions.dll
+C:\Users\sean_\Desktop\csharp-course\l03-functions\obj\Debug\net6.0\l03-functions.pdb
+C:\Users\sean_\Desktop\csharp-course\l03-functions\obj\Debug\net6.0\l03-functions.genruntimeconfig.cache
+C:\Users\sean_\Desktop\csharp-course\l03-functions\obj\Debug\net6.0\ref\l03-functions.dll
